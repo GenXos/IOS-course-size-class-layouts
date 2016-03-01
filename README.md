@@ -1,2 +1,2 @@
-# IOS-course-size-class-layouts
+# size-class-layouts
 Size Class Layouts
